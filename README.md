@@ -1,3 +1,3 @@
 # AplikasiCapstone1Purwadhika
 
-![img 1](Readme1.jpg)
+![img 1](screenshoot/Readme1.jpg)
